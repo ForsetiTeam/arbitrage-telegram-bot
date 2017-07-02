@@ -7,6 +7,7 @@ This bot allows arbitrators to make decisions based on information about dispute
 Arbitrator get Arguments from both sides of dispute.
 
 in start-menu there are 4 main sections:
+
 -My Account:
     In this section arbitrator can see own rating,Successfully conducted transactions and total earnings
 
