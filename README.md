@@ -1,6 +1,8 @@
 # Blockjudje_Telegram-bot
 Blockjudje_Telegram-bot
 
+t.me/block_judgebot
+
 # Summary
 
 This bot allows arbitrators to make decisions based on information about disputes.
